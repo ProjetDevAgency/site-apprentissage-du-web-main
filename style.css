@@ -48,8 +48,8 @@ nav#main-nav ul {
 }
 
 header {
-    background: #094c88; /* Changez la couleur de fond du header */
-    color: #F8F8F8;
+    background: #000000; /*a couleur de  Chan lfond du header */
+    color: #ffffff;
     height: 453px;
 }
 
@@ -91,7 +91,8 @@ section#course {
 }
 
 #course h2 {
-    color: #F8F8F8;
+    color: #ffffff;
+    background-color: #000000;
 }
 
 .flex {
